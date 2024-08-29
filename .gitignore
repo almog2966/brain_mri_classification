@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+
+
+# Dataset (usually too large for Git)
+train/
+
+# Model checkpoints
+*.h5
+*.pkl
+
+# OS generated files
+.DS_Store
